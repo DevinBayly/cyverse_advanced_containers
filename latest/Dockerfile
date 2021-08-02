@@ -1,3 +1,3 @@
 FROM ubuntu:latest
 
-apt update
+RUN apt update
